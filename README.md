@@ -24,7 +24,7 @@ and get output similar to
 
 ## Exercise 2
  
-Write a bash script that provides a count of the number of (1) files and (2) subdirectories in the current directory.  The script should be named `count_files_and_subdirs.sh`.  (Tools like `wc` and `grep` might be very helpful.)  You choose to exclude the hidden files and directories.
+Write a bash script that provides a count of the number of (1) files and (2) subdirectories in the current directory.  The script should be named `count_files_and_subdirs.sh`.  (Tools like `wc` and `grep` might be very helpful.)  You may choose to exclude the hidden files and directories.
 
 
 ## Exercise 3
